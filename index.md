@@ -43,7 +43,7 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 📌 Recent News
-- **Aug 2024**: Our paper *SVAttack: Spatial-Viewpoint Joint Attack* has been accepted by [XXX Conference/Journal]!
+- **Jun 2025**: Our paper *SDomain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [Pattern Recognition Journal]!
 - **Sep 2024**: Invited to give a talk on *High-Quality Development of AI School* at the Teacher's Day Meeting.
 - **Jul 2024**: Serving as a reviewer for [XXX Journal].
 
@@ -51,32 +51,15 @@ I have led numerous research projects funded by the National Natural Science Fou
 
 ## 📖 Selected Publications
 1. **Zhize Wu**, Yue Ding, Long Wan, et al. *Local and global self-attention enhanced graph convolutional network for skeleton-based action recognition*. Pattern Recognition, 2025, 159: 111106. (A-class journal recommended by CAA, SCI, Q1)
-
 2. **Zhize Wu**, Pengpeng Sun, Xin Chen, et al. *SelfGCN: Graph Convolution Network With Self-Attention for Skeleton-Based Action Recognition*. IEEE Transactions on Image Processing, 2024, 33:4391-4403. (A-class journal recommended by CCF, SCI, Q1)
-
 3. **Zhize Wu**, Jian Xu, Yan Wang, et al. *Hierarchical Fusion and Divergent Activation based Weakly Supervised Learning for Object Detection from Remote Sensing Images*. Information Fusion, 2022, 80: 23-43. (A-class journal recommended by CAA, SCI, Q1)
-
 4. **Zhize Wu**, Chang Zou, Yan Wang, et al. *Rotation-Aware Representation Learning for Remote Sensing Image Retrieval*. Information Science, 2021, 572: 404-423. (Top journal in Computer Science, SCI, Q1)
-
 5. **Zhize Wu**, Xiaofeng Wang, Le Zou, et al. *Hierarchical Object Detection for Very High-resolution Satellite Images*. Applied Soft Computing, 2021, 114(Part A): 107885. (Top journal in Computer Science, SCI, Q1)
-
 6. **Zhize Wu**, Shouhong Wan, Xiaofeng Wang, et al. *A Benchmark Data Set for Aircraft Type Recognition from Remote Sensing Images*. Applied Soft Computing, 2020, 89: 106132. (Top journal in Computer Science, SCI, Q1)
-
 7. **Zhize Wu**, Huanyi Li, Xiaofeng Wang, et al. *A New Benchmark for Household Garbage Image Recognition*. Tsinghua Science and Technology, 2022, 27(5): 793-803. (Leading journal in China, SCI, Q1)
-
 8. Thomas Weise, **Zhize Wu***, Xinlu Li, et al. *Frequency Fitness Assignment: Optimization without a Bias for Good Solutions can be Efficient*. IEEE Transactions on Evolutionary Computation, 2023, 27(4): 980-992. (CAA-A class journal, SCI, Q1, Corresponding Author: Zhize Wu)
-
 9. **Zhize Wu**, Shouhong Wan, Li Yan, et al. *Autoencoder-based feature learning from a 2D depth map and 3D skeleton for action recognition*. Journal of Computers, 2018, 29(4): 82-95. (EI, JA)
-
 10. Thomas Weise, **Zhize Wu***. *Replicable Self-Documenting Experiments with Arbitrary Search Spaces and Algorithms*. Proceedings of the Companion Conference on Genetic and Evolutionary Computation, 2023: 1891-1899. (CCF recommended conference, EI, Corresponding Author: Zhize Wu)
-
-11. Thomas Weise, Xinlu Li, Yan Chen, and **Zhize Wu***. *Solving Job Shop Scheduling Problems Without using a Bias for Good Solutions*. Proceedings of the Genetic and Evolutionary Computation Conference Companion, 2021: 1459-1466. (CCF recommended conference, EI, Corresponding Author: Zhize Wu)
-
-12. Liang, T., **Wu, Z.**, Lässig, J. et al. *Addressing the traveling salesperson problem with frequency fitness assignment and hybrid algorithms*. Soft Comput 28, 9495–9508 (2024). (CCF recommended journal, SCI, Corresponding Author: Zhize Wu)
-
-13. **Zhize Wu**, et al. *Cross-channel feature-enhanced graph convolutional network for skeleton-based action recognition*. Pattern Recognition and Artificial Intelligence, 2024, 37(8): 703-714. (Famous Chinese journal in AI, EI)
-
-14. **Zhize Wu**, et al. *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification*. Pattern Recognition, accepted, 2024. (A-class journal recommended by CAA, SCI, Q1)
 👉 [Full List of Publications](publications)
 
 ---
