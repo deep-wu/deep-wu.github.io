@@ -35,7 +35,7 @@ title: Zhize Wu
 ---
 
 ## 🏷 About Me
-I am a **Professor ** at the **School of Artificial Intelligence and Big Data, Hefei University**. My research focuses on **deep learning-driven video and image processing, multimodal perception computing, and algorithm optimization**. I have been recognized as an outstanding young graduate supervisor in Anhui Province. My research focuses on advancing the state-of-the-art in computer vision, remote sensing, and evolutionary computation.
+I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei University. My research focuses on **deep learning-driven video and image processing, multimodal perception computing, and algorithm optimization**. I have been recognized as an outstanding young graduate supervisor in Anhui Province. My research focuses on advancing the state-of-the-art in computer vision, remote sensing, and evolutionary computation.
 
 I have led numerous research projects funded by the National Natural Science Foundation of China, Anhui Provincial Key R&D Programs, and other major funding bodies. My work has been published in top-tier journals such as *IEEE Transactions on Image Processing (TIP)*, *IEEE Transactions on Evolutionary Computation (TEVC)*, *Information Fusion*, and *Pattern Recognition*.
 
