@@ -4,6 +4,13 @@ title: Zhize Wu
 ---
 
 <style>
+.container {
+max-width: 900px;
+margin: atuo;
+padding: 20px;
+font-family: "Arial", sans-serif;
+line-height: 1.6;
+}
 .profile-container {
     display: flex;
     align-items: center;
@@ -15,6 +22,8 @@ title: Zhize Wu
     margin-right: 20px;
 }
 </style>
+
+<div class="container">
 
 <div class="profile-container">
     <img src="assets/profile.jpg" alt="Zhize Wu">
@@ -51,15 +60,25 @@ I have led numerous research projects funded by the National Natural Science Fou
 
 ## 📖 Selected Publications
 1. **Zhize Wu**, Yue Ding, Long Wan, et al. *Local and global self-attention enhanced graph convolutional network for skeleton-based action recognition*. Pattern Recognition, 2025, 159: 111106. (A-class journal recommended by CAA, SCI, Q1)
+
 2. **Zhize Wu**, Pengpeng Sun, Xin Chen, et al. *SelfGCN: Graph Convolution Network With Self-Attention for Skeleton-Based Action Recognition*. IEEE Transactions on Image Processing, 2024, 33:4391-4403. (A-class journal recommended by CCF, SCI, Q1)
+
 3. **Zhize Wu**, Jian Xu, Yan Wang, et al. *Hierarchical Fusion and Divergent Activation based Weakly Supervised Learning for Object Detection from Remote Sensing Images*. Information Fusion, 2022, 80: 23-43. (A-class journal recommended by CAA, SCI, Q1)
+
 4. **Zhize Wu**, Chang Zou, Yan Wang, et al. *Rotation-Aware Representation Learning for Remote Sensing Image Retrieval*. Information Science, 2021, 572: 404-423. (Top journal in Computer Science, SCI, Q1)
+
 5. **Zhize Wu**, Xiaofeng Wang, Le Zou, et al. *Hierarchical Object Detection for Very High-resolution Satellite Images*. Applied Soft Computing, 2021, 114(Part A): 107885. (Top journal in Computer Science, SCI, Q1)
+
 6. **Zhize Wu**, Shouhong Wan, Xiaofeng Wang, et al. *A Benchmark Data Set for Aircraft Type Recognition from Remote Sensing Images*. Applied Soft Computing, 2020, 89: 106132. (Top journal in Computer Science, SCI, Q1)
+
 7. **Zhize Wu**, Huanyi Li, Xiaofeng Wang, et al. *A New Benchmark for Household Garbage Image Recognition*. Tsinghua Science and Technology, 2022, 27(5): 793-803. (Leading journal in China, SCI, Q1)
+
 8. Thomas Weise, **Zhize Wu***, Xinlu Li, et al. *Frequency Fitness Assignment: Optimization without a Bias for Good Solutions can be Efficient*. IEEE Transactions on Evolutionary Computation, 2023, 27(4): 980-992. (CAA-A class journal, SCI, Q1, Corresponding Author: Zhize Wu)
+
 9. **Zhize Wu**, Shouhong Wan, Li Yan, et al. *Autoencoder-based feature learning from a 2D depth map and 3D skeleton for action recognition*. Journal of Computers, 2018, 29(4): 82-95. (EI, JA)
+
 10. Thomas Weise, **Zhize Wu***. *Replicable Self-Documenting Experiments with Arbitrary Search Spaces and Algorithms*. Proceedings of the Companion Conference on Genetic and Evolutionary Computation, 2023: 1891-1899. (CCF recommended conference, EI, Corresponding Author: Zhize Wu)
+
 👉 [Full List of Publications](publications)
 
 ---
@@ -76,4 +95,4 @@ I have led numerous research projects funded by the National Natural Science Fou
 - **2022**: Best Paper Award (XXX Conference)
 - **2021**: XXX Young Scientist Award
 
----
+</div>
