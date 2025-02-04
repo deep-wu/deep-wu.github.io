@@ -10,8 +10,11 @@ title: Zhize Wu
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%40ZhizeWu-blue)](https://scholar.google.com/citations?user=xxxxxxx)
 
 ## About Me
-I am currently with the **School of Artificial Intelligence and Big Data, Hefei University**. My research interests include **deep learning-driven image processing and understanding, multimodal video analysis, and computer vision**.  
-I have led multiple **national and provincial-level research projects** and published **40+ academic papers** in top-tier journals and conferences.  
+I am a **Professor** and a Ph.D. supervisor in the **School of Artificial Intelligence and Big Data at Hefei University**. My research focuses on **deep learning-driven video and image processing, multimodal perception computing, and algorithm optimization**.  
+
+I have led multiple **national and provincial-level research projects**, including the **National Natural Science Foundation of China (NSFC), Anhui Provincial Key R&D Plan, and major industry-academic cooperation projects**. My research funding includes two projects with over 1 million RMB in grants.  
+
+I have published over **40 peer-reviewed papers** in high-impact journals such as **IEEE Transactions on Image Processing (TIP), IEEE Transactions on Evolutionary Computation (TEVC), IEEE Transactions on Multimedia (TMM), Information Fusion, and Pattern Recognition**. I serve as a reviewer for **IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR, AAAI, and IJCAI**.
 
 🔗 [**Curriculum Vitae (CV)**](assets/cv.pdf) | 📧 **Email:** your.email@hfuu.edu.cn  
 
@@ -28,16 +31,18 @@ I have led multiple **national and provincial-level research projects** and publ
 
 ## 📖 Publications
 ### Selected Papers:
-1. **Wu Z., et al.** *SVAttack: Spatial-Viewpoint Joint Attack for Skeleton-based Action Recognition* **(2024)** [📄 PDF](#)
-2. **Wu Z., et al.** *Multimodal Analysis of Acupuncture Point Detection* **(2023)** [📄 PDF](#)
-3. **Wu Z., et al.** *Manifold Constraints in Adversarial Learning* **(2022)** [📄 PDF](#)
+1. **Wu Z., et al.** *Local and global self-attention enhanced graph convolutional network for skeleton-based action recognition.* **Pattern Recognition, 2025**. (SCI, CCF-A)
+2. **Wu Z., et al.** *SelfGCN: Graph Convolution Network With Self-Attention for Skeleton-Based Action Recognition.* **IEEE Transactions on Image Processing, 2024**. (SCI, CCF-A)
+3. **Wu Z., et al.** *Hierarchical Fusion and Divergent Activation based Weakly Supervised Learning for Object Detection from Remote Sensing Images.* **Information Fusion, 2022**. (SCI, CCF-A)
+4. **Wu Z., et al.** *Rotation-Aware Representation Learning for Remote Sensing Image Retrieval.* **Information Science, 2021**. (SCI, Top-tier Journal)
+5. **Wu Z., et al.** *Hierarchical Object Detection for Very High-resolution Satellite Images.* **Applied Soft Computing, 2021**. (SCI, Top-tier Journal)
 
 👉 [Full Publication List](publications)
 
 ---
 
 ## 🎓 Academic Service
-- **Journal Reviewer**: IEEE T-PAMI, CVPR, ICCV, AAAI
+- **Journal Reviewer**: IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR, AAAI, IJCAI
 - **Conference Organization**: Area Chair at ICCV 2024, Committee Member at ECCV 2022
 - **Research Projects**: Principal Investigator of **national and provincial research projects**
 
