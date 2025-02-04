@@ -1,0 +1,47 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleYour Name - Academic Homepagetitle
+    style
+        body {
+            font-family Arial, sans-serif;
+            margin 40px;
+        }
+        h1, h2 {
+            color #333;
+        }
+        a {
+            color #0366d6;
+            text-decoration none;
+        }
+        ahover {
+            text-decoration underline;
+        }
+    style
+head
+body
+    header
+        h1Your Nameh1
+        pPhD Candidate in [Your Field] at [Your University]p
+    header
+    section
+        h2About Meh2
+        pBrief introduction about your research interests and background.p
+    section
+    section
+        h2Publicationsh2
+        ul
+            liPublication 1li
+            liPublication 2li
+            !-- Add more publications as needed --
+        ul
+    section
+    section
+        h2Contacth2
+        pEmail a href=mailtoyour.email@example.comyour.email@example.comap
+        pGitHub a href=httpsgithub.comusernamegithub.comusernameap
+    section
+body
+html
