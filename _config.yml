@@ -1,0 +1,7 @@
+title: Zhize Wu | Academic Homepage
+author: Zhize Wu
+description: "Deep Learning, Computer Vision, Multimodal Analysis"
+theme: minima  # You can change to Minimal Mistakes
+baseurl: "" 
+url: "https://deep-wu.github.io"
+permalink: pretty
