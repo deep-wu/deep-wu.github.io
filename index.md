@@ -45,7 +45,7 @@ I have led numerous research projects funded by the National Natural Science Fou
 ## 📌 Recent News
 - **Jun 2025**: Our paper *SDomain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [Pattern Recognition Journal]!
 - **Sep 2024**: Invited to give a talk on *High-Quality Development of AI School* at the Teacher's Day Meeting.
-- **Jul 2024**: Serving as a reviewer for [XXX Journal].
+- **Jul 2024**: Serving as a reviewer for [TIP Journal].
 
 ---
 
