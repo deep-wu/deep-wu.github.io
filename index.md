@@ -4,13 +4,6 @@ title: Zhize Wu
 ---
 
 <style>
-.container {
-max-width: 900px;
-margin: atuo;
-padding: 20px;
-font-family: "Arial", sans-serif;
-line-height: 1.6;
-}
 .profile-container {
     display: flex;
     align-items: center;
@@ -23,7 +16,6 @@ line-height: 1.6;
 }
 </style>
 
-<div class="container">
 
 <div class="profile-container">
     <img src="assets/profile.jpg" alt="Zhize Wu">
@@ -95,4 +87,3 @@ I have led numerous research projects funded by the National Natural Science Fou
 - **2022**: Best Paper Award (XXX Conference)
 - **2021**: XXX Young Scientist Award
 
-</div>
