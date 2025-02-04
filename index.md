@@ -4,6 +4,16 @@ title: Zhize Wu
 ---
 
 <style>
+/* A4 页面布局 */
+.container {
+    max-width: 794px;  /* 限制最大宽度为 A4 */
+    margin: auto;  /* 居中 */
+    padding: 20px;
+    font-family: "Arial", sans-serif;
+    line-height: 1.6;
+}
+
+/* 个人信息 & 头像 */
 .profile-container {
     display: flex;
     align-items: center;
@@ -11,10 +21,22 @@ title: Zhize Wu
 }
 .profile-container img {
     border-radius: 10px;
-    width: 160px;
+    width: 180px;
     margin-right: 20px;
 }
+
+h1 {
+    font-size: 26px;
+}
+h2 {
+    font-size: 22px;
+}
+p {
+    font-size: 16px;
+}
 </style>
+
+<div class="container">
 
 <div class="profile-container">
     <img src="assets/profile.jpg" alt="Zhize Wu">
@@ -72,4 +94,4 @@ I have published over **40 peer-reviewed papers** in high-impact journals such a
 - **2022**: Best Paper Award (XXX Conference)
 - **2021**: XXX Young Scientist Award
 
----
+</div>  <!-- 结束 A4 容器 -->
