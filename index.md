@@ -4,9 +4,22 @@ title: Zhize Wu
 ---
 
 <style>
+/* 统一页面布局，最大宽度 900px */
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    font-family: "Arial", sans-serif;
+    line-height: 1.6;
+}
+
+/* 个人信息卡片样式 */
 .profile-container {
     display: flex;
     align-items: center;
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
     margin-bottom: 20px;
 }
 .profile-container img {
@@ -14,8 +27,26 @@ title: Zhize Wu
     width: 160px;
     margin-right: 20px;
 }
+.profile-container h1 {
+    margin-bottom: 5px;
+}
+.profile-container p {
+    margin: 3px 0;
+}
+.profile-container a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+/* 调整标题间距 */
+h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
 </style>
 
+<div class="container">
 
 <div class="profile-container">
     <img src="assets/profile.jpg" alt="Zhize Wu">
@@ -35,9 +66,9 @@ title: Zhize Wu
 ---
 
 ## 🏷 About Me
-I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei University. My research focuses on **deep learning-driven video and image processing, multimodal perception computing, and algorithm optimization**. I have been recognized as an outstanding young graduate supervisor in Anhui Province. My research focuses on advancing the state-of-the-art in computer vision, remote sensing, and evolutionary computation.
+I am a **Professor** at the **School of Artificial Intelligence and Big Data, Hefei University** and a recipient of the **Outstanding Young Graduate Supervisor in Anhui Province** award. My research focuses on **deep learning-driven video and image processing, multimodal perception computing, and algorithm optimization**.
 
-I have led numerous research projects funded by the National Natural Science Foundation of China, Anhui Provincial Key R&D Programs, and other major funding bodies. My work has been published in top-tier journals such as *IEEE Transactions on Image Processing (TIP)*, *IEEE Transactions on Evolutionary Computation (TEVC)*, *Information Fusion*, and *Pattern Recognition*.
+I have led multiple **national and provincial research projects**, including funding from **NSFC, Anhui Provincial Key R&D Programs**, and others. My research has been published in leading journals such as *IEEE Transactions on Image Processing (TIP)*, *IEEE Transactions on Evolutionary Computation (TEVC)*, *Information Fusion*, and *Pattern Recognition*.
 
 [📄 **Curriculum Vitae (CV)**](assets/cv.pdf)
 
@@ -75,10 +106,11 @@ I have led numerous research projects funded by the National Natural Science Fou
 
 ---
 
+
 ## 🎓 Academic Service
 - **Journal Reviewer**: IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR
-- **Conference Reviewer**: AAAI 2024,  ECCV 2024, KDD 2024
-- **Research Projects**: Principal Investigator of **ational and provincial research projects**
+- **Conference Reviewer**: AAAI 2024, ECCV 2024, KDD 2024
+- **Research Projects**: Principal Investigator of **national and provincial research projects**
 
 ---
 
@@ -87,3 +119,4 @@ I have led numerous research projects funded by the National Natural Science Fou
 - **2022**: Best Paper Award (XXX Conference)
 - **2021**: XXX Young Scientist Award
 
+</div> <!-- 结束 container -->
