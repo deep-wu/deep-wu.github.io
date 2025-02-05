@@ -39,8 +39,6 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 
 I have led numerous research projects funded by the National Natural Science Foundation of China, Anhui Provincial Key R&D Programs, and other major funding bodies. My work has been published in top-tier journals such as *IEEE Transactions on Image Processing (TIP)*, *IEEE Transactions on Evolutionary Computation (TEVC)*, *Information Fusion*, and *Pattern Recognition*.
 
-[📄 **Curriculum Vitae (CV)**](assets/cv.pdf)
-
 ---
 
 ## 📌 Recent News
@@ -51,11 +49,11 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 📖 Selected Publications
-1. **Zhize Wu**, Yue Ding, Long Wan, et al. *Local and global self-attention enhanced graph convolutional network for skeleton-based action recognition*. Pattern Recognition, 2025, 159: 111106. (A-class journal recommended by CAA, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
+1. **Zhize Wu**, Yue Ding, Long Wan, et al. *Local and global self-attention enhanced graph convolutional network for skeleton-based action recognition*. Pattern Recognition, 2025, 159: 111106. (A-class journal recommended by CAAI, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
 
 2. **Zhize Wu**, Pengpeng Sun, Xin Chen, et al. *SelfGCN: Graph Convolution Network With Self-Attention for Skeleton-Based Action Recognition*. IEEE Transactions on Image Processing, 2024, 33:4391-4403. (A-class journal recommended by CCF, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
 
-3. **Zhize Wu**, Jian Xu, Yan Wang, et al. *Hierarchical Fusion and Divergent Activation based Weakly Supervised Learning for Object Detection from Remote Sensing Images*. Information Fusion, 2022, 80: 23-43. (A-class journal recommended by CAA, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
+3. **Zhize Wu**, Jian Xu, Yan Wang, et al. *Hierarchical Fusion and Divergent Activation based Weakly Supervised Learning for Object Detection from Remote Sensing Images*. Information Fusion, 2022, 80: 23-43. (A-class journal recommended by CAAI, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
 
 4. **Zhize Wu**, Chang Zou, Yan Wang, et al. *Rotation-Aware Representation Learning for Remote Sensing Image Retrieval*. Information Science, 2021, 572: 404-423. (Top journal in Computer Science, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
 
@@ -65,7 +63,7 @@ I have led numerous research projects funded by the National Natural Science Fou
 
 7. **Zhize Wu**, Huanyi Li, Xiaofeng Wang, et al. *A New Benchmark for Household Garbage Image Recognition*. Tsinghua Science and Technology, 2022, 27(5): 793-803. (Leading journal in China, SCI, Q1) [🔗 Paper](#) | [🔗 Code](#)
 
-8. Thomas Weise, **Zhize Wu***, Xinlu Li, et al. *Frequency Fitness Assignment: Optimization without a Bias for Good Solutions can be Efficient*. IEEE Transactions on Evolutionary Computation, 2023, 27(4): 980-992. (CAA-A class journal, SCI, Q1, Corresponding Author: Zhize Wu) [🔗 Paper](#) | [🔗 Code](#)
+8. Thomas Weise, **Zhize Wu***, Xinlu Li, et al. *Frequency Fitness Assignment: Optimization without a Bias for Good Solutions can be Efficient*. IEEE Transactions on Evolutionary Computation, 2023, 27(4): 980-992. (CAAI-A class journal, SCI, Q1, Corresponding Author: Zhize Wu) [🔗 Paper](#) | [🔗 Code](#)
 
 9. **Zhize Wu**, Shouhong Wan, Li Yan, et al. *Autoencoder-based feature learning from a 2D depth map and 3D skeleton for action recognition*. Journal of Computers, 2018, 29(4): 82-95. (EI, JA) [🔗 Paper](#) | [🔗 Code](#)
 
