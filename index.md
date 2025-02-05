@@ -4,13 +4,6 @@ title: Zhize Wu
 ---
 
 <style>
-.container {
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-    font-family: "Arial", sans-serif;
-    line-height: 1.6;
-}
 .profile-container {
     display: flex;
     align-items: center;
@@ -23,8 +16,6 @@ title: Zhize Wu
 }
 </style>
 
-
-<div class="container">
 
 <div class="profile-container">
     <img src="assets/profile.jpg" alt="Zhize Wu">
@@ -53,7 +44,7 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 📌 Recent News
-- **Jan 2025**: Our paper *SDomain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [Pattern Recognition Journal]!
+- **Jan 2025**: Our paper *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [Pattern Recognition Journal]!
 - **Sep 2024**: Invited to give a talk on *High-Quality Development of AI School* at the Teacher's Day Meeting.
 - **Jul 2024**: Serving as a reviewer for [TIP Journal].
 
@@ -85,9 +76,9 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 🎓 Academic Service
-- **Journal Reviewer**: IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR, AAAI, IJCAI
-- **Conference Organization**: Area Chair at ICCV 2024, Committee Member at ECCV 2022
-- **Research Projects**: Principal Investigator of **national and provincial research projects**
+- **Journal Reviewer**: IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR
+- **Conference Reviewer**: AAAI 2024,  ECCV 2024, KDD 2024
+- **Research Projects**: Principal Investigator of **ational and provincial research projects**
 
 ---
 
@@ -96,4 +87,3 @@ I have led numerous research projects funded by the National Natural Science Fou
 - **2022**: Best Paper Award (XXX Conference)
 - **2021**: XXX Young Scientist Award
 
-</div>
