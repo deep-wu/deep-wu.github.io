@@ -23,7 +23,7 @@ title: Zhize Wu
         <h1>Zhize Wu (吴志泽)</h1>
         <p><strong>Professor & Ph.D. Supervisor</strong></p>
         <p>School of Artificial Intelligence and Big Data, Hefei University</p>
-        <p>Email: your.email@hfuu.edu.cn</p>
+        <p>Email: wuzz@hfuu.edu.cn</p>
         <p>
             <a href="https://github.com/yourusername">GitHub</a> |
             <a href="https://scholar.google.com/citations?user=xxxxxxx">Google Scholar</a> |
@@ -42,6 +42,7 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 📌 Recent News
+- **Feb 2025**: Serving as a reviewer for [T-PAMI & IJCV Journal].
 - **Jan 2025**: Our paper *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [Pattern Recognition Journal]!
 - **Sep 2024**: Invited to give a talk on *High-Quality Development of AI School* at the Teacher's Day Meeting.
 - **Jul 2024**: Serving as a reviewer for [TIP Journal].
@@ -74,7 +75,7 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 🎓 Academic Service
-- **Journal Reviewer**: IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR
+- **Journal Reviewer**: IEEE T-PAMI, TIP, TMM, TCSVT, TEVC, PR, IJCV
 - **Conference Reviewer**: AAAI 2024,  ECCV 2024, KDD 2024
 - **Research Projects**: Principal Investigator of **national and provincial research projects**
 
