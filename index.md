@@ -42,8 +42,8 @@ I have led numerous research projects funded by the National Natural Science Fou
 ---
 
 ## 📌 Recent News
-- **Feb 2025**: Serving as a reviewer for [T-PAMI & IJCV Journal].
-- **Jan 2025**: Our paper *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [Pattern Recognition Journal]!
+- **Feb 2025**: Serving as a reviewer for [T-PAMI Journal].
+- **Feb 2025**: Our paper *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [ IEEE Transactions on Multimedia]!
 - **Sep 2024**: Invited to give a talk on *High-Quality Development of AI School* at the Teacher's Day Meeting.
 - **Jul 2024**: Serving as a reviewer for [TIP Journal].
 
