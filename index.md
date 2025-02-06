@@ -48,8 +48,6 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 
 - **Jan 2025**: Serving as a reviewer for [IJCV Journal].
 
-- **Sep 2024**: Invited to give a talk on *High-Quality Development of AI School* at the Teacher's Day Meeting.
-
 - **Jul 2024**: Serving as a reviewer for [TIP Journal].
 
 ---
