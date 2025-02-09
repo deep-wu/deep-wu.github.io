@@ -44,7 +44,9 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 
 - **Feb 2025**: Serving as a reviewer for [T-PAMI Journal].
 
-- **Jan 2025**: Our paper *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [ Pattern Recognition]!
+- **Jan 2025**:  Our paper *ILENet: Illumination-Modulated Laplacian-Pyramid Enhancement Network for low-light object detection* has been accepted by [ Expert Systems With Applications Journal]!
+
+- **Jan 2025**: Our paper *Domain Adaptation via Feature Disentanglement for Cross-Domain Image Classification* has been accepted by [ Pattern Recognition Jouranl]!
 
 - **Jan 2025**: Serving as a reviewer for [IJCV Journal].
 
