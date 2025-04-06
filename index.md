@@ -21,7 +21,7 @@ title: Zhize Wu
     <img src="assets/profile.jpg" alt="Zhize Wu">
     <div>
         <h1>Zhize Wu (吴志泽)</h1>
-        <p><strong>Professor & Ph.D. Supervisor</strong></p>
+        <p><strong>Professor </strong></p>
         <p>School of Artificial Intelligence and Big Data, Hefei University</p>
         <p>Email: wuzz@hfuu.edu.cn</p>
         <p>
@@ -93,7 +93,5 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 ---
 
 ## 🏆 Awards
-- **2023**: XXX Scientific and Technological Progress Award
-- **2022**: Best Paper Award (XXX Conference)
-- **2021**: XXX Young Scientist Award
+- **2024**: Excellent Graduate Student Mentor of Anhui Province
 
