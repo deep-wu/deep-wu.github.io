@@ -40,6 +40,9 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 ---
 
 ## 📌 Recent News
+
+- **Oct 2025**:  Our paper *DHSNet: Denoised-Modulated Hybrid-Semantic Scale-Aware Network for Low-Light Image Enhancement* has been accepted by [ IEEE Transactions on Multimedia]!
+
 - **July 2025**:  Our paper *Split-and-Combine: Enhancing Style Augmentation for Single Domain Generalization* has been accepted by [ ICCV 2025]!
 
 - **May 2025**:  Our paper *DenseLoRA: Dense Low-Rank Adaptation of Large Language Models* has been accepted by [ ACL 2025]!
