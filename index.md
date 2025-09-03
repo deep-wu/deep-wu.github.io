@@ -40,8 +40,9 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 ---
 
 ## 📌 Recent News
+- **September 2025**:  Our paper *DICP: Deep In-Context Prompt for Event Causality Identification* has been accepted by [ EMNLP 2025]!
 
-- **Oct 2025**:  Our paper *DHSNet: Denoised-Modulated Hybrid-Semantic Scale-Aware Network for Low-Light Image Enhancement* has been accepted by [ IEEE Transactions on Multimedia]!
+- **August 2025**:  Our paper *DHSNet: Denoised-Modulated Hybrid-Semantic Scale-Aware Network for Low-Light Image Enhancement* has been accepted by [ IEEE Transactions on Multimedia]!
 
 - **July 2025**:  Our paper *Split-and-Combine: Enhancing Style Augmentation for Single Domain Generalization* has been accepted by [ ICCV 2025]!
 
