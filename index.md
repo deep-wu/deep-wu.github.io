@@ -48,7 +48,7 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 
 - **May 2025**:  Our paper *DenseLoRA: Dense Low-Rank Adaptation of Large Language Models* has been accepted by [ ACL 2025]!
 
-- **May 2025**:  Our paper *DICP: Deep In-Context Prompt for Event Causality Identification* has been accepted by [ ACL 2025]!
+- **May 2025**:  Our paper *Query-Driven Multimodal GraphRAG: Dynamic Local Knowledge Graph Construction for Online Reasoning* has been accepted by [ ACL 2025]!
 
 - **March 2025**:  Our paper *融合骨架大核算子和全局上下文信息的图卷积网络* has been accepted by [ 中国图象图形学报]!
 
