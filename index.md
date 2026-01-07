@@ -35,7 +35,7 @@ title: Zhize Wu
 ---
 
 ## 🏷 About Me
-I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei University.  I have been recognized as an outstanding young graduate supervisor in Anhui Province. My research focuses on advancing the state-of-the-art in **deep learning-driven video and image processing, multimodal perception computing, and algorithm optimization**.
+I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei University.  I have been recognized as an outstanding young graduate supervisor in Anhui Province. My research focuses on advancing the state-of-the-art in **secure artificial intelligence, deep learning–driven visual analysis, and multimodal perceptual computing**.
 
 ---
 
