@@ -40,6 +40,8 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 ---
 
 ## 📌 Recent News
+- **March 2026**:  Our paper *NRFP: A Noise-Robust Feature Plugin for Source-Free Domain Adaptation* has been accepted by [ CVPR 2026]!
+
 - **September 2025**:  Our paper *DICP: Deep In-Context Prompt for Event Causality Identification* has been accepted by [ EMNLP 2025]!
 
 - **August 2025**:  Our paper *DHSNet: Denoised-Modulated Hybrid-Semantic Scale-Aware Network for Low-Light Image Enhancement* has been accepted by [ IEEE Transactions on Multimedia]!
