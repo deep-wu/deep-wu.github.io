@@ -40,6 +40,8 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 ---
 
 ## 📌 Recent News
+- **April 2026**:  Our paper *Fair face forgery detection via cross-domain decoupling and entropy-adaptive enhancement* has been accepted by [ PR 2026]!
+
 - **March 2026**:  Our paper *NRFP: A Noise-Robust Feature Plugin for Source-Free Domain Adaptation* has been accepted by [ CVPR 2026]!
 
 - **September 2025**:  Our paper *DICP: Deep In-Context Prompt for Event Causality Identification* has been accepted by [ EMNLP 2025]!
