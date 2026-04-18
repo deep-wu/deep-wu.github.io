@@ -40,25 +40,34 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 ---
 
 ## 📌 Recent News
-- **April 2026**:  Our paper *Fair face forgery detection via cross-domain decoupling and entropy-adaptive enhancement* has been accepted by [ PR 2026]!
 
-- **March 2026**:  Our paper *NRFP: A Noise-Robust Feature Plugin for Source-Free Domain Adaptation* has been accepted by [ CVPR 2026]!
+- **May 2026**:  Our paper *GraphLoRA: Structure-Aware Low-Rank Adaptation for Large Language Model Recommendation* has been accepted by [ ACL 2026 ]!
 
-- **September 2025**:  Our paper *DICP: Deep In-Context Prompt for Event Causality Identification* has been accepted by [ EMNLP 2025]!
+- **May 2026**:  Our paper *TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models* has been accepted by [ ACL 2026 ]!
 
-- **August 2025**:  Our paper *DHSNet: Denoised-Modulated Hybrid-Semantic Scale-Aware Network for Low-Light Image Enhancement* has been accepted by [ IEEE Transactions on Multimedia]!
+- **April 2026**:  Our paper *Fair face forgery detection via cross-domain decoupling and entropy-adaptive enhancement* has been accepted by [ PR 2026 ]!
 
-- **July 2025**:  Our paper *Split-and-Combine: Enhancing Style Augmentation for Single Domain Generalization* has been accepted by [ ICCV 2025]!
+- **March 2026**:  Our paper *NRFP: A Noise-Robust Feature Plugin for Source-Free Domain Adaptation* has been accepted by [ CVPR 2026 ]!
 
-- **May 2025**:  Our paper *DenseLoRA: Dense Low-Rank Adaptation of Large Language Models* has been accepted by [ ACL 2025]!
+- **February 2026**:  Our paper *DHSNet: Denoised-Modulated Hybrid-Semantic Scale-Aware Network for Low-Light Image Enhancement* has been accepted by [ IEEE Transactions on Multimedia ]!
 
-- **May 2025**:  Our paper *Query-Driven Multimodal GraphRAG: Dynamic Local Knowledge Graph Construction for Online Reasoning* has been accepted by [ ACL 2025]!
+- **January 2026**:  Our paper *面向骨架动作识别的生成式对抗攻击* has been accepted by [ 北京航空航天大学学报 ]!
 
-- **March 2025**:  Our paper *融合骨架大核算子和全局上下文信息的图卷积网络* has been accepted by [ 中国图象图形学报]!
+- **December 2025**:  Our paper *Efficient Cross-Shard Blockchain Atomic Submission Scheme Based on Pledge Transactions* has been accepted by [ IEEE Transactions on Network and Service Management ]!
 
-- **February 2025**:  Our paper *Simplification Is All You Need against Out-of-Distribution Overconfidence* has been accepted by [ CVPR2025]!
+- **September 2025**:  Our paper *DICP: Deep In-Context Prompt for Event Causality Identification* has been accepted by [ EMNLP 2025 ]!
 
-- **February 2025**:  Our paper *基于动态多粒度图卷网络的骨架行为识别方法研究* has been accepted by [ 中国图象图形学报]!
+- **July 2025**:  Our paper *Split-and-Combine: Enhancing Style Augmentation for Single Domain Generalization* has been accepted by [ ICCV 2025 ]!
+
+- **May 2025**:  Our paper *DenseLoRA: Dense Low-Rank Adaptation of Large Language Models* has been accepted by [ ACL 2025 ]!
+
+- **May 2025**:  Our paper *Query-Driven Multimodal GraphRAG: Dynamic Local Knowledge Graph Construction for Online Reasoning* has been accepted by [ ACL 2025 ]!
+
+- **March 2025**:  Our paper *融合骨架大核算子和全局上下文信息的图卷积网络* has been accepted by [ 中国图象图形学报 ]!
+
+- **February 2025**:  Our paper *Simplification Is All You Need against Out-of-Distribution Overconfidence* has been accepted by [ CVPR 2025 ]!
+
+- **February 2025**:  Our paper *基于动态多粒度图卷网络的骨架行为识别方法研究* has been accepted by [ 中国图象图形学报 ]!
 
 ---
 
