@@ -41,9 +41,9 @@ I am a Professor  at the School of Artificial Intelligence and Big Data, Hefei U
 
 ## 📌 Recent News
 
-- **May 2026**:  Our paper *GraphLoRA: Structure-Aware Low-Rank Adaptation for Large Language Model Recommendation* has been accepted by [ ACL 2026 ]!
+- **April 2026**:  Our paper *GraphLoRA: Structure-Aware Low-Rank Adaptation for Large Language Model Recommendation* has been accepted by [ ACL 2026 ]!
 
-- **May 2026**:  Our paper *TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models* has been accepted by [ ACL 2026 ]!
+- **April 2026**:  Our paper *TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models* has been accepted by [ ACL 2026 ]!
 
 - **April 2026**:  Our paper *Fair face forgery detection via cross-domain decoupling and entropy-adaptive enhancement* has been accepted by [ PR 2026 ]!
 
